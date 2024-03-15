@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4012eb93-472a-4f51-a604-b07c8ca9d58e": {
+      "ProjectGuid": "4012eb93-472a-4f51-a604-b07c8ca9d58e",
+      "DisplayName": "LoginScreen",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
